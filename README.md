@@ -1,11 +1,11 @@
-# PocketMod Creator
+# PocketFold Creator
 
-Python script to convert a PDF into a PocketMod PDF.
+Python script to convert a PDF into a Pocketfold PDF.
 
 ![usage example](media/explainer.png)
 
-## What is a PocketMod?
-See [pocketmod.com](https://pocketmod.com/) or search online for "PocketMod"
+## What is a PocketFold?
+See [3skulls.itch.io/pocketfold](https://3skulls.itch.io/pocketfold) or search online for "PocketFold"
 for more information.
 
 *Searching online for "pocket mod" (two words) will bring up information*
